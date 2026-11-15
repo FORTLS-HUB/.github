@@ -2,6 +2,10 @@
 
 This organization is the community and social networking hub supporting **[FORTLS.com](https://fortls.com)** — a collection of independent, free browser-based tools, developer guides, and scientific computing resources for Fortran developers.
 
+[![Website](https://shields.io)](https://fortls.com)
+[![Ko-fi](https://shields.io)](https://ko-fi.com/fortls)
+[![PayPal](https://shields.io)](https://www.paypal.com/paypalme/fortls)
+
 ### 🛠️ What We Build & Share
 * **`.fortls` Generator:** Configure and export ready-to-use configuration files in your browser.
 * **Config Checker:** Validate configuration syntax and check for unrecognised keys.
