@@ -1,0 +1,30 @@
+name: Tool Feedback or Bug Report
+description: Report an issue or suggest an improvement for FORTLS.com tools
+title: "[Tool]: "
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Which FORTLS.com tool is this for?
+      options:
+        - .fortls Generator
+        - Config Checker
+        - fpm.toml Generator
+        - Quick Reference (PDF)
+        - Website / General
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened or what would you like to see?
+      description: Describe the bug, unexpected config output, or feature idea.
+    validations:
+      required: true
+  - type: textarea
+    id: config_sample
+    attributes:
+      label: Sample Configuration (Optional)
+      description: Paste any non-sensitive `.fortls` or `fpm.toml` snippet to help reproduce the issue.
+      render: toml
