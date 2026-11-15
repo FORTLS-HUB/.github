@@ -1,6 +1,6 @@
 # Welcome to FORTLS.com on GitHub
 
-This organization is the community and social networking hub supporting **[FORTLS.com](https://fortls.com)** — a collection of independent, free browser-based tools and resources for Fortran developers.
+This organization is the community and social networking hub supporting **[FORTLS.com](https://fortls.com)** — a collection of independent, free browser-based tools, developer guides, and scientific computing resources for Fortran developers.
 
 ### 🛠️ What We Build & Share
 * **`.fortls` Generator:** Configure and export ready-to-use configuration files in your browser.
@@ -9,9 +9,11 @@ This organization is the community and social networking hub supporting **[FORTL
 * **Community Resources:** Guides, orientation sheets, and open discussions for modern Fortran tooling.
 
 ### 🤝 Connect & Support
+All tools on FORTLS.com are free and run in your browser. Your support helps keep the platform online and funds new free resources for developers and researchers worldwide:
 * **Website:** [fortls.com](https://fortls.com)
-* **Support the Project:** Visit [FORTLS.com](https://fortls.com) to subscribe to the newsletter or help cover community hosting costs.
-* **Discussions:** Join the conversation in our repositories to share feedback, suggest new browser tools, or connect with other Fortran developers.
+* **Ko-fi:** [ko-fi.com/fortls](https://ko-fi.com/fortls)
+* **PayPal:** [paypal.me/fortls](https://www.paypal.com/paypalme/fortls)
+* **Discussions:** Join the conversation in our repositories to share feedback, suggest new tools, or connect with other Fortran developers.
 
 ---
 
