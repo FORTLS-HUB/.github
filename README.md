@@ -2,26 +2,33 @@
 
 This organization is the community and social networking hub supporting **[FORTLS.com](https://fortls.com)** — a collection of independent, free browser-based tools, developer guides, and scientific computing resources for Fortran developers.
 
-[![Website](https://shields.io)](https://fortls.com)
-[![GitHub Sponsors](https://shields.io)](https://github.com)
-[![Ko-fi](https://shields.io)](https://ko-fi.com/fortls)
-[![PayPal](https://shields.io)](https://www.paypal.com/paypalme/fortls)
+🌐 **Website:** [fortls.com](https://fortls.com)  
+📰 **Newsletter:** [FORTLS Ecosystem Digest](https://fortls.beehiiv.com/subscribe)
+
 
 ### 🛠️ What We Build & Share
-* **[`.fortls` Generator](https://fortls.com):** Configure and export ready-to-use configuration files in your browser.
-* **[Config Checker](https://fortls.com):** Validate configuration syntax and check for unrecognised keys.
-* **[`fpm.toml` Generator](https://fortls.com):** Quickly scaffold Fortran Package Manager project manifests.
-* **[Quick Reference (PDF)](https://fortls.com):** Download a free one-page modern Fortran orientation sheet.
-* **[Community Hub](https://github.com):** Guides, ecosystem updates, and open discussions for modern Fortran tooling.
+* **`.fortls` Generator:** Configure and export ready-to-use configuration files in your browser.
+* **Config Checker:** Validate configuration syntax and check for unrecognised keys.
+* **`fpm.toml` Generator:** Quickly scaffold Fortran Package Manager project manifests.
+* **Community Resources:** Guides, orientation sheets, and open discussions for modern Fortran tooling.
 
-### 🤝 Connect & Support
-All tools on FORTLS.com are free and run in your browser — nothing is uploaded. Your support helps keep the platform online and funds new free resources for developers and researchers worldwide:
-* **Website:** [fortls.com](https://fortls.com)
-* **Newsletter:** [FORTLS Ecosystem Digest](https://beehiiv.com)
-* **GitHub Sponsors:** [://github.com](https://github.com)
+### 🚀 Quick Links
+* **Join the Conversation:** [GitHub Discussions](https://github.com/orgs/FORTLS-HUB/discussions)
+* **Report an Issue or Request a Feature:** [Open an Issue](https://github.com/FORTLS-HUB/community/issues)
+
+### 🤝 Support
+All tools on FORTLS.com are free and run in your browser. Your support helps keep the platform online and funds new free resources for developers and researchers worldwide:
+* **GitHub Sponsors:** [github.com/sponsors/FORTLS-HUB](https://github.com/sponsors/FORTLS-HUB)
 * **Ko-fi:** [ko-fi.com/fortls](https://ko-fi.com/fortls)
 * **PayPal:** [paypal.me/fortls](https://www.paypal.com/paypalme/fortls)
-* **Discussions:** Join the conversation in [GitHub Discussions](https://github.com) to share feedback, suggest new tools, or connect with other Fortran developers.
+
+### 🔗 Connect With Us
+* **Website:** [fortls.com](https://fortls.com)
+* **LinkedIn:** [FORTLS.com](https://www.linkedin.com/in/fortls/)
+* **X (Twitter):** [@FORTLSHUB](https://x.com/FORTLSHUB)
+* **Bluesky:** [@fortls.bsky.social](https://bsky.app/profile/fortls.bsky.social)
+* **YouTube:** [@FORTLSHUB](https://www.youtube.com/@FORTLSHUB)
+* **Reddit:** [u/FORTLSHUB](https://www.reddit.com/user/FORTLSHUB/)
 
 ---
 
